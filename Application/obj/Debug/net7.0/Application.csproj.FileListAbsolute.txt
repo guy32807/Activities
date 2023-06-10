@@ -1,0 +1,17 @@
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Application.deps.json
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Application.dll
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Application.pdb
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Domain.dll
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Persistence.dll
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Domain.pdb
+C:\Apps\Udemy\Activities_Network\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.dll
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\Application.pdb
+C:\Apps\Udemy\Activities_Network\Application\obj\Debug\net7.0\ref\Application.dll

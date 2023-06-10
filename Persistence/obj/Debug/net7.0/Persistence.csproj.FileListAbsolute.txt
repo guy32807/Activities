@@ -1,0 +1,15 @@
+C:\Apps\Udemy\Activities_Network\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Apps\Udemy\Activities_Network\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Apps\Udemy\Activities_Network\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Apps\Udemy\Activities_Network\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Apps\Udemy\Activities_Network\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Apps\Udemy\Activities_Network\Persistence\obj\Debug\net7.0\ref\Persistence.dll
